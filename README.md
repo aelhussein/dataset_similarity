@@ -6,7 +6,7 @@ This repository contains the code used in the paper *"A Universal Metric of Data
 
 To execute the code, use the following command:
 
-`bash script_gpu_run_models
+`bash submit_jobs.sh
 --dataset <dataset_name>
 --tune [optional]
 --learning_rate [optional]
